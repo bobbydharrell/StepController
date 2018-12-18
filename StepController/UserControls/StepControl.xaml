@@ -1,0 +1,13 @@
+﻿<UserControl x:Class="StepController.Controls.StepControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:local="clr-namespace:StepController"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="600" Background="White">
+    <Viewbox>
+        <Grid x:Name="StepGrid" Margin="-103,0,34,0">
+        </Grid>
+    </Viewbox>
+</UserControl>
